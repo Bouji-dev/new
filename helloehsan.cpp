@@ -11,6 +11,7 @@ using namespace std;
 int main() {
 
 	cout << "Hello Ehsan.";
+	int a;
 	
 
 	return 0;
